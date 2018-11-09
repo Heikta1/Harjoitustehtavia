@@ -1,0 +1,2 @@
+# Harjoitustehtavia
+Sisältää ohjelmointi harjoituksia
